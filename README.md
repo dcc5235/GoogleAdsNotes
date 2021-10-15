@@ -21,5 +21,15 @@ Google Ads calculates Ad Rank for every ad in the auction. Ad Rank determines yo
 3. Context of query: Context matters - looks at search terms the person has entered, the person’s location at the time of the search, the type of device they’re using (e.g., mobile or desktop), the time of the search, the nature of the search terms, other ads and search results that show on the page, and other user signals and attributes.
 4. Ad extensions impact: When you create your ad, you have the option to add extra information to your ad, such as a phone number, or more links to specific pages on your site. Google Ads estimates how extensions and other ad formats you use will impact your ad's performance.
 5. Auction-time ad quality: Google Ads also looks at how relevant and useful your ad and the website it links to are to the person who'll see it. Quality Score is an aggregated estimate of our assessment of the quality of your ad.
+  
+#### The three main factors that determine the quality of an ad
+1. Expected clickthrough rate: This is our prediction of how often an ad will be clicked on when it's shown. Across Google, we rely on user feedback to drive decision making, and user clickthrough rates (CTRs) tell us what users respond to. By allowing users to vote with their clicks, we have millions of people who are helping us to decide which ads are best for each search query.
+2. Ad landing page experience: Users want ad landing pages that help them find what they're looking for. A highly relevant landing page yields a higher score. A high-quality landing page should have appropriate and original content that helps the user complete their task. It should be easily navigable and transparent about the nature of the business, how the site interacts with the user's computer, and how it intends to use their personal information. 
+3. Ad relevance: Ad relevance is a measure of how well an ad matches what the user is searching for, and helps to make sure that only useful ads are shown. It also prevents businesses from simply paying their way onto a search that's unrelated to their product or service.
+  
+#### How Ad Rank influences actual cost per click
+Oftentimes, average cost per click (CPC) is not the price you’re paying for each of your clicks. Because the system is dynamic, the CPC can vary a lot from auction to auction and depends on a variety of factors, such as the context of each query. It's important to keep in mind that average CPC is just an average--meaning that the price you pay could be above or below that average.
+
+Higher-quality ads typically lead to lower costs, better ad positions, and more advertising success. When users see better ads, they’re happier and more likely to actually click on those ads. 
 
 </details>
