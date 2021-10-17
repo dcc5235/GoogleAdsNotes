@@ -33,3 +33,8 @@ Oftentimes, average cost per click (CPC) is not the price you’re paying for ea
 Higher-quality ads typically lead to lower costs, better ad positions, and more advertising success. When users see better ads, they’re happier and more likely to actually click on those ads. 
 
 </details>
+<details><summary>Improving Ad Rank</summary>
+#### What is Quality Score?
+Quality Score is an estimate of the quality of your ads, keywords, and landing pages. Higher-quality ads can lead to lower prices and better ad positions. Quality score is composed of expected clickthrough rate, ad relevance, and landing page experience. 
+  
+</details>
