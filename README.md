@@ -1,5 +1,33 @@
 # Google Ads Certificate Notes
 
+<details><summary>Why Google Ads?</summary>
+  
+Google Ads provides access to a broad range of advertising products designed to help you reach customers. To help you grow your business, Google Ads is built around three principles: relevance, control, and results.
+  
+  - Relevance: Google Ads helps you connect with the right people, at the right time, with the right message. Your ads can appear on Google Search, YouTube, and more, just when someone is looking for products or services like yours. You can also customize options, such as keywords and location, to get in front of the most relevant customers.
+  - Control: Google Ads gives you complete control over your budget. You choose how much to spend per month, per day, and per ad. Based on your settings, Google Ads uses a lightning-fast auction to determine which ad to show. If you want to change your strategy, you can easily adjust your ad, modify your budget, or pause and restart a campaign.
+  - Results: Pay only for results, like clicks to your website or calls to your business. Our measurement tools make it easy to see how your site, apps, and ads are performing. Plus, smart technology lets you create, manage, and optimize your campaigns so you can get the most out of your investment.
+  
+#### Advance your business goals
+Your advertising campaigns should center around the objectives you have for your business. 
+  - Drive sales: Grow online, in-app, in-person, and over-the-phone sales.
+  - Get leads: Boost conversions by encouraging people to take action.
+  - Increase website visits: Get the right people to visit your website.
+  - Influence consideration: Encourage people to explore your products and services.
+  - Build awareness: Reach a broad audience and maximize exposure.
+  - Promote your app: Increase installs and interactions with your app.
+  
+</details>
+
+<details><summary>Lorem</summary>
+####Lorem Ipsum
+lorem
+  
+</details>
+
+
+
+
 <details><summary>What is the Google Ads auction?</summary>
 
 The ad auction is Google’s way of deciding which ads will show and how they’re positioned.
