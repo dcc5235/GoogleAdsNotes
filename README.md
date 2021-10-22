@@ -52,7 +52,9 @@ While the campaign type you choose determines where users see your ads, you can 
 </details>
 
 <details><summary>Identify Campaign Types on Google Display Ads</summary>
+
 #### Display advertising on Google Display ads
+  
 With Google Display ads as your advertising ally, you can reach over 90% of global internet users across more than three million apps and websites. This kind of reach allows you to learn about consumer behavior, identify valuable audiences, and engage with those audiences quickly and often.
 
 #### What's the value of Google Display ads?
@@ -102,6 +104,7 @@ If you’re looking for full control over all aspects of your Display campaign, 
 </details>
 
 <details><summary>Reach Users on Google Display Ads</summary>
+  
 #### Display targeting
 You can use targeting to direct your campaign’s ads to the people you want to reach most. Simply choose the targeting option that aligns to your campaign goal and Google Display ads will work to get your ad in front of the right people, in the right place, at the right time.
 
