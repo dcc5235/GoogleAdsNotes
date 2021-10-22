@@ -51,9 +51,36 @@ While the campaign type you choose determines where users see your ads, you can 
   - Ad extensions: Include even more information with your ads, such as location details, links to pages on your website, and your phone number.
 </details>
 
-<details><summary>Lorem</summary>
-####Lorem Ipsum
-lorem
+<details><summary>Identify Campaign Types on Google Display Ads</summary>
+#### Display advertising on Google Display ads
+With Google Display ads as your advertising ally, you can reach over 90% of global internet users across more than three million apps and websites. This kind of reach allows you to learn about consumer behavior, identify valuable audiences, and engage with those audiences quickly and often.
+
+#### What's the value of Google Display ads?
+Google Display ads helps you deliver relevant advertising as people browse the web. It connects your business with your customers — future and existing. With a variety of bidding options, popular ad formats, and transparency into performance, Google Display ads drives results every day for thousands of advertisers around the world. 
+  
+  - Powerful intent signals: Google harnesses best-in-class intent signals to place ads against the most relevant content, driving your marketing results. Google intent signals and machine learning enable greater relevance to achieve your desired outcome, at scale.
+    - Google analyzes user activity across our owned and operated properties and over three million website and app partners to generate a clear understanding of user preferences.
+    - Google uses advanced machine learning capabilities to bring best-in-class automation, bidding, and targeting to reach users at just the right moment.
+    - Unique insights across over three million websites and apps including access to six properties with over one billion users. Reach users in the moments that matter.
+
+  - Massive scale: Run your ads and connect with your audience through Gmail, YouTube, and millions of other websites.
+  - Measurable performance: Maximize results with Google Display ads' measurable performance.
+  - Easy campaign set up: Google Display ads will bring you the features and options that are relevant to what you want to accomplish.
+
+#### Display campaign types
+There are two campaign types for you to choose from — Smart and Standard.
+
+  - Smart Display campaigns are a campaign type that uses full automation. It bundles together all the pillars of successful Display campaigns and accesses the best of Google’s machine learning capabilities to optimize and automate nearly all aspects of your Display campaigns. You provide a few inputs: what your ads will say, images you want to use, daily budget, and cost-per-acquisition (CPA) performance targets. Google will mix and match your ads at scale. 
+    - To be eligible to set up a Smart Display campaign, you need to have gotten at least 50 conversions on Display — or at least 100 conversions on Search — in the last 30 days.
+    - Create your campaign in minutes by providing just three inputs: budget, bid, and creative assets. Then, rely on multiple Google machine learning technologies to provide ongoing optimization and find you as many customers as possible.
+    - You receive all standard Google Ads reporting and then also get new, supplemental reports based on insights that allow broad, strategic management instead of daily micromanagement.
+    - Smart Display campaigns run across the three million websites and apps available on Google Display ads, including AdMob and Google owned and operated properties such as YouTube.
+    - There are three core automation models that drive Smart Display campaigns: automated bidding, automated targeting, and automated creatives.
+      - Automated bidding: Instead of bidding manually, you specify a Target CPA or Target ROAS you’d like to achieve and Google will manage the CPC bids on a per-auction basis, based on the likelihood that the auction will generate a conversion.
+      - Automated targeting: Targeting optimizes where the campaign runs, which means ads increasingly show where they’ll get you the most business. Smart Display campaigns drive remarketing and prospecting alike.
+      - Automated creatives: Ads are automatically generated from the building blocks you provide, like headlines, descriptions, logos, and images. They responsively fit into almost all ad slots across Google Display ads. Smart Display campaigns can also use your data feed to render dynamic ads based on the items in your feed.
+  - Smart Display campaigns rely on the existing CPA model to set the bids at the right time. They also use a new auto-targeting infrastructure to deliver the best of Display targeting across the entire mid- and lower-funnel, and leverage a new auto-optimized creative technology to combine raw creative assets (logos and images), and build custom ads for each auction.
+  - You should use Smart Display ads if you are new to display advertising and want a fast and highly performing campaign, have limited display advertising to remarketing but now want to reach people earlier in the buying process, and want to attract additional customers beyond your manually targeted campaigns or simplify your existing campaign structure.
   
 </details>
 
