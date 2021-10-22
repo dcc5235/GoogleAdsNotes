@@ -81,6 +81,71 @@ There are two campaign types for you to choose from — Smart and Standard.
       - Automated creatives: Ads are automatically generated from the building blocks you provide, like headlines, descriptions, logos, and images. They responsively fit into almost all ad slots across Google Display ads. Smart Display campaigns can also use your data feed to render dynamic ads based on the items in your feed.
   - Smart Display campaigns rely on the existing CPA model to set the bids at the right time. They also use a new auto-targeting infrastructure to deliver the best of Display targeting across the entire mid- and lower-funnel, and leverage a new auto-optimized creative technology to combine raw creative assets (logos and images), and build custom ads for each auction.
   - You should use Smart Display ads if you are new to display advertising and want a fast and highly performing campaign, have limited display advertising to remarketing but now want to reach people earlier in the buying process, and want to attract additional customers beyond your manually targeted campaigns or simplify your existing campaign structure.
+
+#### What's a Standard Display campaign?
+If you’re looking for full control over all aspects of your Display campaign, then a Standard Display campaign is right for you. You can manually select your targeting, bidding, and ad formats.
+
+  - Targeting: When building your first Display campaign, there are three marketing objectives you'll be able to choose from:
+    - Build awareness: Increase how well people know your brand.
+    - Influence consideration: Encourage people to explore your products or services.
+    - Drive action: Get sales or leads by motivating people to take action.
+  
+  - Bidding: It’s important to choose a bid strategy that reflects your marketing objectives. 
+    - Enhanced CPC: Automatically adjusts your manual bid up or down based on each click’s likelihood to result in a conversion
+    - Maximize Conversions: Drive as much conversion volume as possible within your budget
+    - Target CPA: Automatically sets bids to help you increase conversions while reaching your average cost-per-acquisition goal
+    - Target ROAS: Automatically sets bids to help get as much conversion value as possible at the target return on ad spend you set
+  
+  - Ad Formats: There are two main types of ad formats you can leverage for your Display campaign.
+    - Responsive Display ads: Greater efficiency and scale
+    - Uploaded ads (Image & AMPHTML): Greater control
+</details>
+
+<details><summary>Reach Users on Google Display Ads</summary>
+#### Display targeting
+You can use targeting to direct your campaign’s ads to the people you want to reach most. Simply choose the targeting option that aligns to your campaign goal and Google Display ads will work to get your ad in front of the right people, in the right place, at the right time.
+
+Note: If you choose to use the marketing objectives option on a Display campaign, Google Display ads will guide you to the targeting options designed to work best with your goal.
+  
+#### Build awareness
+When you want to reach a broad audience and maximize your brand exposure, we recommend selecting build awareness as your Display campaign marketing objective. 
+  
+  - Demographic targeting enables you to show ads to users based on a combination of declared and inferred data. You can target based on age, gender, and parental status. 
+  - With Affinity audiences, you can reach TV-like audiences based on a holistic picture of their lifestyles, interests, and passions. Choose from over 100 segments based on online behavior. Google’s best-in-class algorithm distinguishes these users that are truly passionate about a topic rather than those that are merely interested.
+  - If one of the 100+ off-the-shelf Affinity audiences doesn’t meet your needs, create your own with Custom Affinity audiences. This feature allows you to define and target custom-made audiences, giving you substantive reach against niche groups of users.
+#### Influence consideration
+  
+#### Drive action
+  
+</details>
+
+<details><summary>Lorem</summary>
+####Lorem Ipsum
+lorem
+  
+</details>
+
+<details><summary>Lorem</summary>
+####Lorem Ipsum
+lorem
+  
+</details>
+
+<details><summary>Lorem</summary>
+####Lorem Ipsum
+lorem
+  
+</details>
+
+<details><summary>Lorem</summary>
+####Lorem Ipsum
+lorem
+  
+</details>
+
+<details><summary>Lorem</summary>
+####Lorem Ipsum
+lorem
   
 </details>
 
