@@ -165,10 +165,35 @@ It’s important to choose a bidding strategy that reflects your marketing goals
   
 </details>
 
-<details><summary>Lorem</summary>
-####Lorem Ipsum
-lorem
+<details><summary>Deliver the Right Message on Google Display Ads</summary>
   
+#### Display ad formats
+Creatives are the face of your brand through advertising, so you want to make sure they represent you well. Ad formats let you choose how to communicate your business to your audience. 
+  
+  - Why Display ad formats? 
+    - Display ads can help you promote your business when people are browsing online, watching YouTube videos, checking Gmail, or using mobile devices and apps.
+    - With Google Display ads, you can take an approach that enables greater efficiency or greater creative control. 
+
+#### Responsive Display Ads
+  - Responsive Display Ads are Google’s marquee Display ad format and are the default ad type when creating a Display campaign. They represent the future of asset-based digital advertising.
+    - Responsive Display Ads give you the ability to upload your own assets and create ads that serve in all ad slot sizes, into both native and non-native inventory. Simply upload your assets (images, videos, headlines, logos, and descriptions), and Google will automatically create ads. They're built for performance, reach, and scale.
+    - Not only do Responsive Display Ads look great, they perform. On average, we tend to see 50% more conversions at a similar cost-per-acquisition (CPA) when advertisers add Responsive Display Ads to their image ad campaigns.
+    - Automation: When you create a Responsive Display Ad by uploading different assets into Google Ads, Google uses a machine learning model to determine the optimal combination of assets for each ad slot based on predictions built from your performance history.
+    - Reach: Multiple assets can be uploaded per asset type, such as headlines, logos, images, and videos. The ads that Google assembles automatically adjust their size, appearance, and format to fit just about any native or non-native ad slot. 
+    - Simplicity: By using Responsive Display Ads, you can reduce your overhead for managing ad portfolios within ad groups and campaigns and dedicate more time to performance improvement.
+  - Creative testing: Google does billions of creative A/B tests for your business. Google also leverages multiple machine learning modules (asset selection, color extraction, auto-fitting, and more) to create the right message to the right user across desktop, mobile, and apps.
+  
+#### Uploaded ads 
+Uploaded ads offer greater control over the way your ads look and feel. You build your own ads outside of Google Ads and simply upload them to your Display campaign.
+  - What are image ads? Created outside of Google Ads (in Google Web Designer, for example), image ads are uploadable as a .zip file into Google Ads. Image ads only run in banner-eligible slots, which has limited scale relative to Responsive Display Ads.
+    - Note: In order to qualify for as many auctions as possible, it’s recommended to have both Responsive Display Ads and image ads in your Display campaign.
+    - Complete creative control: You can develop these ads yourself using templates to decide how best to combine your different images, text, and logos.
+
+  - What are AMPHTML ads?
+    - AMPHTML ads enable marketers, publishers, and technology providers to deliver faster, and more secure ad experiences across all platforms by applying the principles of AMP to building and serving ads. 
+    - Faster ads drive better performance: AMPHTML ads are 6x faster than regular ads on AMP pages, making them more viewable, more effective, and more likely to perform well.
+    - Lighter ads can lead to better ad experiences: AMPHTML ads are 3x lighter in load and rendering than regular ads which may result in users having a more positive experience with your brand. 
+    - Safer ads build trust in your brand: AMPHTML ads need validation before they’re served, reducing the risk of malware and building trust in the brands users are engaging with.
 </details>
 
 <details><summary>Lorem</summary>
@@ -177,9 +202,54 @@ lorem
   
 </details>
 
-<details><summary>Lorem</summary>
-####Lorem Ipsum
-lorem
+<details><summary>Increase Conversions with Performance Planner</summary>
+  
+#### Why you should plan for performance with Performance Planner
+Planning is the crucial first step to achieving success with Google Ads. By planning your Google Ads budgets on a monthly basis in advance, you can help ensure that when people need products or information, your ads can meet them at the right time to help maximize conversions and achieve your key performance indicators (KPIs).
+
+By planning your Google Ads budgets in advance, you can:
+  1. Understand the future spend potential of current Google Ads campaigns to help drive budget decisions
+  2. Take advantage of seasonality to capture incremental opportunities 
+  3. Set optimal bids and budgets across your campaigns to help ensure that ROI performance is maximized
+  4. Find new opportunities to grow your sales volumes with Google Ads
+  
+  - What's the Google Ads Performance Planner?
+    - Performance Planner is a new forecasting tool that uses machine learning to reveal the possibilities for your Google Ads campaigns. With this tool, you can explore forecasts for your upcoming monthly, quarterly, and annual budgets for current campaigns, while also helping to improve your return on investment.
+    - Performance Planner determines the optimal bids and average daily budget allocations across all of your campaigns to help increase the number of conversions you can achieve for any future spend scenario. 
+    - Using Google’s seasonality data and insights, Performance Planner will predict the results if you use optimal bids and average daily budgets across your campaigns to maximize the number of conversions for any future spend scenario.
+    - When you choose a spend point on the blue line, Performance Planner will improve your ROI by reallocating spend between campaigns through adjusting bids and average daily budgets.
+  
+  - Forecasting
+    - Google Search ad auctions — made up of billions of searches per week — powers our forecast engine.
+    - Our forecast engine simulates relevant ad auctions with query level variables, including seasonality, clickthrough rate, competitors, landing page, and time of day.
+    - We use machine learning to fine tune forecasts and achieve a higher level of accuracy.
+    - We perform forward and backward measurements of accuracy for thousands of campaign samples — across one, seven, 30, and 90 day periods — to ensure we’re making valid recommendations.
+  
+#### How to use Performance Planner
+
+1. Learn: Create a new budget plan to learn the best bids and budgets for your campaigns to drive incremental conversions.
+2. Explore: Explore further optimizations and forecast how you can grow your business with Google Ads.
+3. Do: Review and implement changes prescribed by your Performance Planner plan.
+4. Repeat: Ensure you react to external factors and optimize to the target metrics set. Use Performance Planner on a monthly basis for best results.
+  
+  - Optimal budgets and bids are crucial to getting the most of your marketing budget
+    1. The additional conversions you can generate at the same spend using Performance Planner.
+    2. The incremental number of conversions you can achieve and maximum amount you can spend without diminishing returns (maintain your current CPA)
+    3. The incremental number of conversions you can achieve and maximum amount you can spend at your desired target CPA goal (in order to remain profitable)
+    4. Additional spend and resulting conversion scenarios at higher target CPA goals (reduce profitability to increase total conversion volume) 
+  
+  - Why should I use Performance Planner every month?
+    - Seasonality, fluctuating auctions, and competitors mean that Google Ads campaigns should be planned and optimized on at least a monthly basis. Using Performance Planner every month lets you optimize your budgets and bids so you can drive more conversions for the same investment.
+    - Don't add all brand and generic campaigns into the same plan. That's because different campaigns often have different marketing objectives. Incremental conversions are achieved by creating separate plans for each marketing objective.
+    - Forecasts improve when plans are generated closer to the actual run date. Make sure to regularly check back on your plan before implementing it.
+  
+#### Take action with Performance Planner
+Once you use Performance Planner to create a plan with the target date, campaigns, budget, target conversion volume, and target cost-per-acquisition (CPA) for upcoming periods, the tool will provide one of the recommendations below. These recommendations are campaign settings forecasted to help drive maximum conversions and the most efficient return on your investment for your targeted budget.
+
+  - Search Manual cost-per-click (CPC) or Enhanced CPC campaigns: Recommended average daily budget and campaign bid scaling (1.5 scaling means + 50% bid scaling)
+  - Search Maximize Clicks or Maximize Conversions campaigns: Recommended average daily budget
+  - Search Target CPA or Target return on ad spend (ROAS) campaigns: Recommended average daily budget, Campaign-level Target CPA, or Campaign-level Target ROAS
+  - Performance Planner provides a CSV download with the recommended bid scaling, Target CPA, Target ROAS, and average daily budget amounts. You can manually apply these suggestions through the Google Ads campaign management interface, or you can download a Google Ads Editor file and upload to Google Ads Editor to see and action the recommended changes.
   
 </details>
 
