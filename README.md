@@ -159,6 +159,9 @@ It’s important to choose a bidding strategy that reflects your marketing goals
     - Maximize Conversions: Advertisers that want to spend a fixed budget and don’t have an explicit CPA/ROAS goal
     - Target cost-per-acquisition (tCPA): Maximize amount of conversions, without considering order value — such as lead generation and eCommerce businesses. 
     - Enhanced cost-per-click (eCPC): For Search, this is for advertisers who want to set the core bid manually or through third-party bidding tools, with an added layer of real-time optimization. 
+  - Revenue-focused bidding strategies: Choose this bid strategy if you’re tracking the revenue or value associated with your conversions and want to maximize it at a specific return on ad spend target. They’re a good fit if you’re tracking conversion value and have campaigns that have at least 50 conversions in the past 30 days for Search and at least 15 conversions in the past 30 days for Display.
+    - Target return on ad spend (Target ROAS): Automatically sets bids to help get as much conversion value as possible at the target return on ad spend (ROAS) you set
+    - If you want to automatically optimize bids to maximize revenue within your target ROAS
   
 </details>
 
