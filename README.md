@@ -116,15 +116,28 @@ When you want to reach a broad audience and maximize your brand exposure, we rec
   - Demographic targeting enables you to show ads to users based on a combination of declared and inferred data. You can target based on age, gender, and parental status. 
   - With Affinity audiences, you can reach TV-like audiences based on a holistic picture of their lifestyles, interests, and passions. Choose from over 100 segments based on online behavior. Google’s best-in-class algorithm distinguishes these users that are truly passionate about a topic rather than those that are merely interested.
   - If one of the 100+ off-the-shelf Affinity audiences doesn’t meet your needs, create your own with Custom Affinity audiences. This feature allows you to define and target custom-made audiences, giving you substantive reach against niche groups of users.
-#### Influence consideration
   
+#### Influence consideration
+When you want to engage with users that are actively researching products or services, we recommend selecting influence consideration as your Display campaign marketing objective.
+
+  - In-Market audiences: Reach potential customers while they're actively browsing, researching, or comparing the types of products you sell and are close to a conversion. Connect with those most interested in what you have to offer, using precise segments that classify users based on their demonstrated in-market behavior and purchase intent.
+  - Custom Intent audiences: If you want to create a tailored audience that isn't covered in one of our In-Market audience segments, Custom Intent is for you! Define and reach people that have the intent to purchase, updated in real-time. Simply enter keywords or URLs that best represent your audience or choose from one of our auto-created audiences.
+  - Similar Audiences: Similar Audiences finds users that are similar to an original remarketing list or other uploaded compatible list. It finds users that are similar in profile based on their recent browsing and interests around different topics.
+
 #### Drive action
+When you want to re-engage with users that have already shown interest in your brand, we recommend selecting drive action as your Display campaign marketing objective.
+  
+  - Remarketing: Remarketing lets you show ads to the people who demonstrated their interest in what you offer with their visit to your website or app. It’s how you reconnect with great prospects as they browse the millions of websites and apps available on the network.
+  - Standard remarketing: Show ads to your past visitors as they browse network websites and use network apps. Communicate with people who've previously visited key pages on your website across screens, giving you a powerful new way to match the right user with the right message.
+  - Dynamic remarketing: Work to boost your results with dynamic remarketing, which takes remarketing to the next level with ads that include products or services that people viewed on your website. Create dynamically generated display ads with product data pulled from a pre-uploaded feed. You can achieve great performance showing to users products they have seen on your website, with low effort in campaign, ads, and remarketing lists creation.
   
 </details>
 
-<details><summary>Lorem</summary>
-####Lorem Ipsum
-lorem
+<details><summary>Increase Efficiency with Automated Bidding</summary>
+  
+#### What's automated bidding?
+
+  #### Choose the right bidding strategy
   
 </details>
 
