@@ -136,8 +136,29 @@ When you want to re-engage with users that have already shown interest in your b
 <details><summary>Increase Efficiency with Automated Bidding</summary>
   
 #### What's automated bidding?
+Bidding is a key success factor for online marketing, and the bid strategy you choose directly influences how your campaigns perform and how visible your ads are in the unique moments that are important to your business. Google Ads offers several bid strategies that are tailored to your marketing goals and different types of campaigns. 
+  
+  - Factors to automatic bidding: performance (Bids influence how visible your ads are and the amount of interaction you get in each unique moment. If you don't bid efficiently, you could miss valuable conversions), auctions (Given the dynamic nature of our auctions, the appropriate bid can often be a moving target that's challenging to reach at scale when using manual bidding), and user complexities (Many signals influence user behavior. Their intent and likelihood to complete valuable actions for your business vary based on location, time, device, and so on. Taking all these signals into account for every auction and bidding can be done through automation).
+  - Benefits of Google Ads automated bidding: The goal of any marketing campaign is to reach the right user with the right message at the right time. As consumers span across multiple devices, the customer journey has become more complex and so has setting bids based on each user's context.
+    - Machine learning: Automated bidding uses machine learning to algorithmically help you set the appropriate bid for each and every auction. This takes much of the heavy lifting and guesswork out of setting bids, so you can meet your performance goals more efficiently and accurately.
+    - Time saved: Cross-referencing audience data with context to establish intent and set the appropriate bid is a complex and time-consuming task. Automation offers a way to alleviate this strain on marketing resources.
+    - Auction-time bidding: Our bidding algorithms tailor bids to each user’s unique context, using relevant signals present at auction time. This is a unique capability in the market, as it allows for bid differentiation, with a high degree of precision based on the conversion opportunity of each auction.
+    - Depth of signal used and cross analaysis: Our algorithms integrate a large variety of signals and consider new ones to evaluate user intent. They also go a step beyond traditional signal analysis by recognizing and adjusting for meaningful interactions between combinations of signals while constantly considering new ones.
 
   #### Choose the right bidding strategy
+It’s important to choose a bidding strategy that reflects your marketing goals. Google Ads offers several bid strategies to choose from. Which strategy you choose depends on which networks your campaign is targeting and whether you want to focus on improving clicks, visibility, conversion, and so on.
+
+  - Awareness-based bidding strategies: You should choose this bid strategy if you want to make sure that your ad is visible for certain queries and even at certain locations on the page.
+    - Target impression share: This helps make sure your ads are meeting a specific impression share threshold for a specific location on the search results page: anywhere, top of page, or absolute top of page.
+    - This is for raising awareness of your brand and campaigns that include brand terms.
+  - Consideration-focused bidding strategies: You should choose this bid strategy if you want to drive as many clicks as possible within a set level of spend.
+    - Maximize clicks: Set bids to try to get you as many clicks as possible within a target spend amount that you choose.
+    - Budget-constrained campaigns focused on driving clicks per volume. Upper funnel keywords that have high assist value in conversion
+  - Conversion-focused bidding strategies: Choose one of these bid strategies if you're tracking actions post-click, valuing conversions equally, and looking to maximize the number of conversions. 
+    - Maximize Conversions: Drive as much conversion volume as possible within your budget. You don't need to provide a specific cost per click (CPC), cost per acquisition (CPA), or return on ad spend (ROAS) target. Target cost-per-acquisition (tCPA): This strategy automatically sets bids to help you increase conversions while reaching your average cost-per-acquisition goal. Enhanced cost-per-click (eCPC): This strategy automatically adjusts your manual bid up or down based on each click’s likelihood to result in a conversion.
+    - Maximize Conversions: Advertisers that want to spend a fixed budget and don’t have an explicit CPA/ROAS goal
+    - Target cost-per-acquisition (tCPA): Maximize amount of conversions, without considering order value — such as lead generation and eCommerce businesses. 
+    - Enhanced cost-per-click (eCPC): For Search, this is for advertisers who want to set the core bid manually or through third-party bidding tools, with an added layer of real-time optimization. 
   
 </details>
 
